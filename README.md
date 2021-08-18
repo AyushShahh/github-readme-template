@@ -107,7 +107,7 @@ Example:
 [Bootstrap 4](https://getbootstrap.com/) - Bootstrap is a free and open source front end development framework for the creation of websites and web apps. The Bootstrap framework is built on HTML, CSS, and JavaScript (JS) to facilitate the development of responsive, mobile-first sites and apps.
 
 ## Instructions for using this code
-Type the instructions/code for people to set up development environment who are going to contribute or use your repository/project.<br>
+Type the instructions/code to set up development environment for people who are going to contribute or use your repository/project.<br>
 (remove this, also from table of contents if not needed for your repo)
 <!--
 1. replace the description with your own
