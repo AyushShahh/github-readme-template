@@ -43,6 +43,7 @@ Check the live site/project here "[your link](https://link-to-project.xyz)"
 ## Table of Contents
 - [Demonstration](#demonstration)
 - [Brief](#brief)
+- [Features](#features)
 - [Tech Stack](#tech-stack)
 - [APIs used](#apis-used)
 - [External Libraries used](#external-libraries-used)
@@ -51,6 +52,7 @@ Check the live site/project here "[your link](https://link-to-project.xyz)"
 - [To-Do list](#to-do-list)
 - [Found a bug?](#found-a-bug)
 - [Contributing](#contributing)
+- [FAQ](#faq)
 - [LICENSE](#license-%EF%B8%8F)
 - [Contact](#contact)
 
@@ -70,6 +72,13 @@ Add an image or gif<br>
 Write a brief description of your repository/project.
 
 Describe the features/how to use this/what can it do/why it is made/upcoming features/encountering errors/etc.
+
+## Features
+
+- Light/dark mode toggle
+- Live previews
+- Fullscreen mode
+- Cross platform
 
 <!-- 
 You can even make separate heading for features/upcoming features/anything you want.
@@ -148,6 +157,12 @@ const api_key = "your api key";
 ```
 git clone https://github.com/AyushShahh/github-readme-template.git
 ```
+```bash
+  npm install
+```
+```bash
+  npm run start
+```
 
 ## To-Do list
 - [ ] Things that you planned/working on
@@ -175,6 +190,16 @@ For less major or minor changes, you can open a [pull request](https://github.co
 3. Change github-readme-template to the repository for which you are writing readme (case-sensitive) if you want to keep the link to issues and pull requests
 4. delete this comment afterwards
 -->
+
+## FAQ
+
+#### Question 1
+
+Answer 1
+
+#### Question 2
+
+Answer 2
 
 ## LICENSE 🛡️
 This project is licensed under the {license name} License - see the **[`LICENSE`](https://github.com/AyushShahh/github-readme-template/blob/main/LICENSE)** file for details.<br>
